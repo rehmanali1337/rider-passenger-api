@@ -1,0 +1,7 @@
+fastapi
+pymongo
+python-jose
+passlib
+bcrypt
+python-multipart
+dnspython

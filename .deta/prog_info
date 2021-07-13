@@ -1,0 +1,1 @@
+{"id":"992f2d2f-3625-43fc-92e3-f5d51e48f7b5","space":6843,"runtime":"python3.7","name":"rider-passenger-api","path":"ciowlt","project":"c07ifoof","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","pymongo","python-jose","passlib","bcrypt","python-multipart","dnspython"],"envs":null,"public":true,"log_level":"debug","cron":""}
